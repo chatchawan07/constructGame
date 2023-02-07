@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1675612194,
+	"version": 1675617570,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -30,6 +30,7 @@
 		"images/bglogin3-sheet0.png",
 		"images/button-sheet0.png",
 		"images/bglogin4-sheet0.png",
+		"images/sava-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
